@@ -117,15 +117,22 @@ Homenaje a mi hermano. Es un juego de lógica y memoria visual con una estética
 ---
 
 ### 🔹 Proyecto 5  
- **En desarrollo**
+ **Publicado**  https://juego-barcos.vercel.app/
 
 **Juego de los Barcos**
 
-El juego está desarrollado, pero actualmente me encuentro adaptándolo y migrándolo a esta plataforma para su publicación.
+El juego está desarrollado, como ampliación de un trabajo en la Universidad,  es un  simulador táctico de combate marítimo que sumerge al jugador en el rol de un Almirante al mando de una flota de élite. Mediante una interfaz de comando de alta fidelidad, el juego combina el despliegue estratégico de embarcaciones con la deducción lógica necesaria para localizar y neutralizar la flota enemiga en un entorno de radar. Diseñado con una estética bélica inmersiva y procesado íntegramente de forma local para garantizar la privacidad, ofrece una experiencia de estrategia clásica revitalizada con detalles visuales realistas y una inteligencia artificial desafiante.
 
 
 ---
+### 🔹 Proyecto 6  
+**Publicado** https://ahorcado-personalizado.vercel.app/
 
+**Nombre:** **Ahorcado Personalizado**
+
+Ahorcado Personalizado lo he diseñado para que de forma interactiva se adivina palabras ofrece retos infinitos a través de tres modalidades:  Aleatoria, Temática (basada en cualquier concepto que imagines) y Modo Manual para listas personalizadas. Con un límite de 6 fallos, el juego integra un sistema de pistas inteligentes y definiciones educativas al finalizar cada partida, logrando un equilibrio perfecto entre entretenimiento clásico y aprendizaje moderno en una interfaz optimizada .
+
+---
 ## Contacto
 
 Si te interesa colaborar, dar feedback o simplemente charlar sobre desarrollo:
