@@ -8,31 +8,24 @@ Me apasiona el desarrollo de software y actualmente tengo **muchos proyectos en 
 ---
 
 ## Sobre mis proyectos
+He explorado diversas plataformas y metodologías para el despliegue de aplicaciones, adaptándome a las exigencias de cada entorno:
 
-He explorado distintas formas de desarrollar y publicar mis aplicaciones:
+*Desarrollo Móvil y Despliegue*
+**Google Play Store**: Actualmente cuento con un proyecto en fase de Prueba Cerrada. Se trata de un juego de combate naval, desarrollado originalmente como una extensión de un trabajo universitario que decidí profesionalizar y publicar. Este proceso me ha permitido entender a fondo el ciclo de vida de una App y los estrictos requisitos de calidad de Google (como el cumplimiento de los 14 días con 20 testers, fase en la que me quedo encallado).
 
-*  **Google Play Store**:
-  Tengo un proyecto iniciado, esta en fase de prueba cerrada, pero el requisito actual de contar con **20 testers durante 14 días** ha frenado temporalmente su publicación, es el típico juego de barcos, que desarrole como ampliación a un trabajo de la universidad, tuve curiosidad en ampliar el programa y publicarlo.
+Experiencia con **Expo Go (React Native)**: Experimenté con el ecosistema de Expo para el desarrollo de aplicaciones nativas. Sin embargo, identifiqué que la dependencia de una aplicación externa para la ejecución y las limitaciones en la distribución observe gran facilidad para Android pero no para el resto de plataformaspor lo que dificultaban la accesibilidad inmediata para los usuarios.
 
-*  **GitHub & Vercel**:
-  Por este motivo, he decidido **publicar mis proyectos a través de GitHub y Vercel**, donde puedo compartir mi trabajo, documentarlo correctamente y seguir desarrollándolo de forma abierta y continua.
-
----
-
-##  En qué estoy trabajando
-
-Mis proyectos están enfocados en:
-
-* Aprender nuevas tecnologías
-* Mejorar buenas prácticas de programación
-* Resolver problemas reales
-* Construir aplicaciones útiles y escalables
+*Desarrollo Web y CI/CD*
+Ecosistema **GitHub & Vercel** Ante los retos de las tiendas de aplicaciones, he optado por Vercel como mi plataforma principal de despliegue para mis últimos proyectos. Esta arquitectura me permite:
+Mantener flujos de Integración Continua (CI/CD) conectando mis repositorios privados de GitHub.
+Ofrecer acceso instantáneo a mis herramientas (como el compresor de imágenes o el edificio navideño) sin necesidad de instalaciones previas.
+Documentar y evolucionar mi código de forma abierta, asegurando que el trabajo sea siempre accesible y funcional.
 
 ---
 
 ##  Proyectos
 
-A continuación iré enlazando mis proyectos más importantes:
+A continuación iré enlazando mis proyectos más importantes, y cuyo código tengo en **repositorios privados de Github**:
 
 ---
 
@@ -74,7 +67,7 @@ Sin necesidad de registro ni conexión constante.
 ---
 
 ### 🔹 Proyecto 3  
- **En desarrollo**
+ **Publicado (en fase Test)**  https://correccionexamenes.vercel.app/
 
 **Sistema de corrección de exámenes tipo test y desarrollo**
 
@@ -131,6 +124,17 @@ El juego está desarrollado, como ampliación de un trabajo en la Universidad,  
 **Nombre:** **Ahorcado Personalizado**
 
 Ahorcado Personalizado lo he diseñado para que de forma interactiva se adivina palabras ofrece retos infinitos a través de tres modalidades:  Aleatoria, Temática (basada en cualquier concepto que imagines) y Modo Manual para listas personalizadas. Con un límite de 6 fallos, el juego integra un sistema de pistas inteligentes y definiciones educativas al finalizar cada partida, logrando un equilibrio perfecto entre entretenimiento clásico y aprendizaje moderno en una interfaz optimizada .
+
+---
+
+##  En qué estoy trabajando
+
+Mis proyectos están enfocados en:
+
+* Aprender nuevas tecnologías
+* Mejorar buenas prácticas de programación
+* Resolver problemas reales
+* Construir aplicaciones útiles y de entretenimiento
 
 ---
 ## Contacto
