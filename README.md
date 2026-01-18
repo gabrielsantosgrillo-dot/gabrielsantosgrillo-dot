@@ -103,7 +103,7 @@ Proyecto realizado por encargo de mi padre. La aplicación cubre todas las fases
 ---
 
 ### 🔹 Proyecto 4  
-**En mente**
+**Publicado** https://nomedeslalata.vercel.app/
 
 **Nombre:** **¡No me des la lata!**
 
