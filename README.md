@@ -132,9 +132,24 @@ Ahorcado Personalizado lo he diseñado para que de forma interactiva se adivina 
 **Nombre:** **Edificio Navideño**
 
 Proeycto realizado por mi vinculación con los vecinos de la Calle Campoamor, 10 de Puertollano. Edificio Navideño es una experiencia interactiva diseñada para celebrar la Navidad en la comunidad de Campoamor 10 en Puertollano, que combina la narrativa tradicional con divertidos desafíos digitales. A través de una interfaz optimizada para cualquier dispositivo, los usuarios pueden explorar las plantas de un edificio para descubrir cinco mini-juegos temáticos que restauran la "magia" de cada planta y enfrentarse en una batalla final contra un muñeco de nieve travieso, todo funcionando de manera 100% local y privada para garantizar una experiencia segura, fluida y llena de espíritu navideño.
-
+ 
 ---
+### 🔹 Proyecto 8
+**Migrando** 
 
+**Nombre:** **Fray Andrés en Málaga**
+
+Proyecto encargado por mi madre. Con motivo de viaje escolar a Málaga
+ 
+---
+### 🔹 Proyecto 9
+**Migrando** 
+
+**Nombre:** **Concurso Fotográfico**
+
+Proyecto realizado como complemento al Proyecto 8. Es concurso fotográfico anónimo, donde solo el administrador puede ver los autores.
+ 
+---
 ##  En qué estoy trabajando
 
 Mis proyectos están enfocados en:
