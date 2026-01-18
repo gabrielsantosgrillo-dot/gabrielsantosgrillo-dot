@@ -135,7 +135,7 @@ Proeycto realizado por mi vinculación con los vecinos de la Calle Campoamor, 10
  
 ---
 ### 🔹 Proyecto 8
-**Migrando** 
+**Creado para expo go 12/2025 migrando a github** 
 
 **Nombre:** **Fray Andrés en Málaga**
 
@@ -143,11 +143,11 @@ Proyecto encargado por mi madre. Con motivo de viaje escolar a Málaga
  
 ---
 ### 🔹 Proyecto 9
-**Migrando** 
+**Publicado** https://concursofotografico.vercel.app/
 
 **Nombre:** **Concurso Fotográfico**
 
-Proyecto realizado como complemento al Proyecto 8. Es concurso fotográfico anónimo, donde solo el administrador puede ver los autores.
+Proyecto realizado como complemento al Proyecto 8. Es un concurso fotográfico anónimo, donde solo el administrador puede ver los autores.
  
 ---
 ##  En qué estoy trabajando
