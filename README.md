@@ -126,6 +126,14 @@ El juego está desarrollado, como ampliación de un trabajo en la Universidad,  
 Ahorcado Personalizado lo he diseñado para que de forma interactiva se adivina palabras ofrece retos infinitos a través de tres modalidades:  Aleatoria, Temática (basada en cualquier concepto que imagines) y Modo Manual para listas personalizadas. Con un límite de 6 fallos, el juego integra un sistema de pistas inteligentes y definiciones educativas al finalizar cada partida, logrando un equilibrio perfecto entre entretenimiento clásico y aprendizaje moderno en una interfaz optimizada .
 
 ---
+### 🔹 Proyecto 7  
+**Publicado** https://campoamor10.vercel.app/
+
+**Nombre:** **Edificio Navideño**
+
+Proeycto realizado por mi vinculación con los vecinos de la Calle Campoamor, 10 de Puertollano. Edificio Navideño es una experiencia interactiva diseñada para celebrar la Navidad en la comunidad de Campoamor 10 en Puertollano, que combina la narrativa tradicional con divertidos desafíos digitales. A través de una interfaz optimizada para cualquier dispositivo, los usuarios pueden explorar las plantas de un edificio para descubrir cinco mini-juegos temáticos que restauran la "magia" de cada planta y enfrentarse en una batalla final contra un muñeco de nieve travieso, todo funcionando de manera 100% local y privada para garantizar una experiencia segura, fluida y llena de espíritu navideño.
+
+---
 
 ##  En qué estoy trabajando
 
