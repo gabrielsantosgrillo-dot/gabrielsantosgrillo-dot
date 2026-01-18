@@ -30,23 +30,23 @@ Mis proyectos están enfocados en:
 
 ---
 
-## 📂 Proyectos
+## Proyectos
 
 A continuación iré enlazando mis proyectos más importantes:
 
 * 🔹 Proyecto 1 – *https://comprimir-imagenes.vercel.app/*
-* Nombre Aplicación: "Ga-Optimo" es una herramienta de software como servicio (SaaS) de una sola página (SPA) que permite a los usuarios reducir el peso de sus imágenes sin sacrificar calidad visual. Su propuesta de valor principal es la privacidad absoluta: a diferencia de la mayoría de los compresores online, Ga-Optimo no envía ni un solo byte a servidores externos; todo el procesamiento ocurre en tiempo real dentro de la sesión del usuario.
+* Nombre Aplicación: *"Ga-Optimo"* he diseñado esta herramienta de software como servicio de una sola página  que permite a los usuarios reducir el peso de sus imágenes sin sacrificar calidad visual. Su propuesta de valor principal es la privacidad absoluta: a diferencia de la mayoría de los compresores online, Ga-Optimo no envía ni un solo byte a servidores externos; todo el procesamiento ocurre en tiempo real dentro de la sesión del usuario.
 * 🔹 Proyecto 2 – *https://juegocartastradicional.vercel.app/*
 * Juegos de Cartas Españolas"
 Propósito:
 Una plataforma multijuego diseñada para cualquier tipo de dispositivo que rinde homenaje a los clásicos de la baraja española en mi entorno especialmente un juego de mi abuelito (hilei). El objetivo es ofrecer una experiencia de juego fluida, estética y desafiante contra una inteligencia artificial local, sin necesidad de registro ni conexión constante.
 Juegos Incluidos:
-Cuatrola: Juego estratégico 2vs2 con baraja de 20 cartas y sistemas de retos (Solo, Cuatrola, Sextola).
-Tute: Clásico de 3 jugadores con reglas de arrastre, cánticos y cambios de triunfo.
-Hilei: Juego de  descarte enfocado en sumar puntos por palos.
-Siete y Media: El clásico de apuesta y riesgo contra la banca.
+*Cuatrola:* Juego estratégico 2vs2 con baraja de 20 cartas y sistemas de retos (Solo, Cuatrola, Sextola).
+*Tute:* Clásico de 3 jugadores con reglas de arrastre, cánticos y cambios de triunfo.
+*Hilei:* Juego de  descarte enfocado en sumar puntos por palos.
+*Siete y Media:* El clásico de apuesta y riesgo contra la banca.
 * 🔹 Proyecto 3 – En desarrollo *Sistema de corrección de examenes test y desarrollo*
-* La aplicación cubre todas las fases del proceso:
+* Por encargo de mi padre, la aplicación cubre todas las fases del proceso:
 Configuración: Permite definir baremos complejos (puntos por acierto, penalización por fallo, notas de corte y decimales).
 Generación de Documentación: Crea archivos HTML/PDF listos para imprimir que incluyen:
 Hojas de respuestas con marcas de sincronización para reconocimiento.
@@ -66,7 +66,7 @@ lo tengo desarrollado pero lo tengo que pasar a esta plataforma
 
 ---
 
-## 📫 Contacto
+## Contacto
 
 Si te interesa colaborar, dar feedback o simplemente charlar sobre desarrollo:
 
