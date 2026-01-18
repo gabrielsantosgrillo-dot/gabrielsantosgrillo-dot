@@ -45,6 +45,23 @@ Cuatrola: Juego estratégico 2vs2 con baraja de 20 cartas y sistemas de retos (S
 Tute: Clásico de 3 jugadores con reglas de arrastre, cánticos y cambios de triunfo.
 Hilei: Juego de  descarte enfocado en sumar puntos por palos.
 Siete y Media: El clásico de apuesta y riesgo contra la banca.
+* 🔹 Proyecto 3 – En desarrollo *Sistema de corrección de examenes test y desarrollo*
+* La aplicación cubre todas las fases del proceso:
+Configuración: Permite definir baremos complejos (puntos por acierto, penalización por fallo, notas de corte y decimales).
+Generación de Documentación: Crea archivos HTML/PDF listos para imprimir que incluyen:
+Hojas de respuestas con marcas de sincronización para reconocimiento.
+Hojas de identificación del opositor.
+Etiquetas de códigos de barras únicas por candidato.
+Plantillas transparentes (acetatos) para comprobación manual rápida.
+3. Gestión y Administración (Módulos)
+Control de Opositores: Base de datos de candidatos con importación/exportación JSON y vinculación DNI/EAN-13.
+Cotejo (Verificación): Un módulo de seguridad para validar que los resultados escaneados coinciden con los registros de la base de datos, permitiendo añadir observaciones o vincular opositores en tiempo real.
+Gestión de Soluciones: Administrador de claves maestras con soporte para preguntas de reserva (sustitución automática de preguntas anuladas).
+* 🔹 Proyecto 4 – En mente *Juego de latas*
+* Nombre "¡No me des la lata!" Un homenaje a mi hermano, es un sofisticado juego de lógica y memoria visual con una estética  de "estantería de bebidas". 
+Donde debes descubrir la secuencia exacta de latas que el juego ha generado aleatoriamente. Para ganar, todas las latas deben estar en su posición correcta en el menor tiempo y número de movimientos posible.
+* 🔹 Proyecto 5–  En desarrollo *Juego de los Barcos*
+lo tengo desarrollado pero lo tengo que pasar a esta plataforma
 * 🔹 Proyecto en desarrollo para publicación multiplataforma
 
 ---
