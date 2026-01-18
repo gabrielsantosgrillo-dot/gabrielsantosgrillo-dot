@@ -12,7 +12,7 @@ Me apasiona el desarrollo de software y actualmente tengo **muchos proyectos en 
 He explorado distintas formas de desarrollar y publicar mis aplicaciones:
 
 *  **Google Play Store**:
-  Tengo un proyecto iniciado, pero el requisito actual de contar con **20 testers durante 14 días** ha frenado temporalmente su publicación.
+  Tengo un proyecto iniciado, esta en fase de prueba cerrada, pero el requisito actual de contar con **20 testers durante 14 días** ha frenado temporalmente su publicación, es el típico juego de barcos, que desarrole como ampliación a un trabajo de la universidad, tuve curiosidad en ampliar el programa y publicarlo.
 
 *  **GitHub & Vercel**:
   Por este motivo, he decidido **publicar mis proyectos a través de GitHub y Vercel**, donde puedo compartir mi trabajo, documentarlo correctamente y seguir desarrollándolo de forma abierta y continua.
