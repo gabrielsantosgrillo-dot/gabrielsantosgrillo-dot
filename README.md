@@ -34,12 +34,12 @@ A continuación iré enlazando mis proyectos más importantes, y cuyo código te
 
 **Nombre de la aplicación:** **Ga-Optimo**
 
-He diseñado esta herramienta **Software as a Service (SaaS)** de una sola página que permite a los usuarios reducir el peso de sus imágenes sin sacrificar calidad visual.
+Es una herramienta web para la compresión de imágenes desarrollada íntegramente con lógica en el lado del cliente (client-side). En lugar de usar un backend para procesar los archivos, aprovecho la capacidad del navegador para manipular los datos localmente.
 
-**Propuesta de valor:**
--  Privacidad absoluta
--  No se envía ningún archivo a servidores externos
--  Todo el procesamiento ocurre en tiempo real dentro del navegador del usuario
+Detalles técnicos:
+Procesamiento Local: Los archivos no se suben a ningún servidor; la compresión se realiza mediante scripts que corren directamente en el equipo del usuario.
+Seguridad de datos: Al no haber transferencia de archivos fuera del equipo, se garantiza que la información nunca sale del entorno local.
+Optimización: Utilizo algoritmos de compresión que reducen el tamaño del archivo manteniendo la integridad visual de la imagen original.Busqué en repositorios de npm, estuve comparando varias librerías de compresión en npm hasta que encontré una que funcionaba bien sin necesidad de backend.
 
 ---
 
