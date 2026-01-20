@@ -144,6 +144,7 @@ Proyecto encargado por mi madre. Con motivo de viaje escolar a Málaga
 ---
 ### 🔹 Proyecto 9
 **Publicado** https://concursofotografico.vercel.app/
+Issues: La aplicación es funcional en su núcleo. Actualmente estoy optimizando la integración entre Vercel y MongoDB Atlas para estabilizar la concurrencia de múltiples usuarios.
 
 **Nombre:** **Concurso Fotográfico**
 
