@@ -114,8 +114,7 @@ Homenaje a mi hermano. Es un juego de lógica y memoria visual con una estética
 
 **Juego de los Barcos**
 
-El juego está desarrollado, como ampliación de un trabajo en la Universidad,  es un  simulador táctico de combate marítimo que sumerge al jugador en el rol de un Almirante al mando de una flota de élite. Mediante una interfaz de comando de alta fidelidad, el juego combina el despliegue estratégico de embarcaciones con la deducción lógica necesaria para localizar y neutralizar la flota enemiga en un entorno de radar. Diseñado con una estética bélica inmersiva y procesado íntegramente de forma local para garantizar la privacidad, ofrece una experiencia de estrategia clásica revitalizada con detalles visuales realistas y una inteligencia artificial desafiante.
-
+El juego está desarrollado, como ampliación de un trabajo en la Universidad,  es un juego de barcos clásico donde he trabajado mucho en la interfaz y en crear una lógica de juego que sea difícil para el usuario
 
 ---
 ### 🔹 Proyecto 6  
