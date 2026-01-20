@@ -52,20 +52,17 @@ Optimización: Utilizo algoritmos de compresión que reducen el tamaño del arch
 **Nombre:** **Juegos de Cartas Españolas**
 
 **Propósito:**  
-Plataforma multijuego diseñada para cualquier tipo de dispositivo que rinde homenaje a los clásicos de la baraja española, especialmente a un juego de mi abuelito (**Hilei**).
+Plataforma multijuego diseñada para cualquier tipo de dispositivo que rinde homenaje a los clásicos de la baraja española, especialmente a un juego de mi abuelito (**Giley**) y mi primo(**Culo**)
 
-El objetivo es ofrecer una experiencia:
-- Fluida
-- Estética
-- Desafiante
-- Contra una inteligencia artificial local  
-Sin necesidad de registro ni conexión constante.
+Sin necesidad de registro ni conexión. Juegas contra la máquina.
 
 **Juegos incluidos:**
 - **Cuatrola:** Juego estratégico 2 vs 2 con baraja de 20 cartas y sistema de retos (Solo, Cuatrola, Sextola).
 - **Tute:** Clásico de 3 jugadores con reglas de arrastre, cánticos y cambios de triunfo.
-- **Hilei:** Juego de descarte enfocado en sumar puntos por palos.
+- **Giley:** Juego de descarte enfocado en sumar puntos por palos.
 - **Siete y Media:** Clásico de apuesta y riesgo contra la banca.
+- **Culo:** Juego de descarte.
+- 
 
 ---
 
