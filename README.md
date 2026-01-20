@@ -160,7 +160,30 @@ Mis proyectos están enfocados en:
 * Resolver problemas reales
 * Construir aplicaciones útiles y de entretenimiento
 
+Actualmente estoy enfocado en el desarrollo web moderno, explorando arquitecturas SPA y metodologías de despliegue continuo.
+
+Aunque la mayoría de mis proyectos actuales se encuentran en **repositorios privados** (por motivos  de desarrollo), aquí detallo el stack tecnológico con el que construyo mis aplicaciones:
+
+#### 💻 Tech Stack & Herramientas
+
+**Core & Frontend:**
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+**Estilos & UI:**
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Lucide](https://img.shields.io/badge/Lucide_Icons-black?style=for-the-badge&logo=lucide&logoColor=white)
+
+**Infraestructura & Despliegue:**
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 ---
+*Mis aplicaciones son Single Page Applications (SPA) optimizadas para dispositivos móviles, utilizando React Router para la navegación y una arquitectura basada en componentes.*
+---
+
+
 ## Contacto
 
 Si te interesa colaborar, dar feedback o simplemente charlar sobre desarrollo:
