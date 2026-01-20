@@ -13,7 +13,7 @@ He explorado diversas plataformas y metodologías para el despliegue de aplicaci
 *Desarrollo Móvil y Despliegue*
 **Google Play Store**: Actualmente cuento con un proyecto en fase de Prueba Cerrada. Se trata de un juego de combate naval, desarrollado originalmente como una extensión de un trabajo universitario que decidí profesionalizar y publicar. Este proceso me ha permitido entender a fondo el ciclo de vida de una App y los estrictos requisitos de calidad de Google (como el cumplimiento de los 14 días con 20 testers, fase en la que me quedo encallado).
 
-Experiencia con **Expo Go (React Native)**: Experimenté con el ecosistema de Expo para el desarrollo de aplicaciones nativas. Sin embargo, identifiqué que la dependencia de una aplicación externa para la ejecución y las limitaciones en la distribución observe gran facilidad para Android pero no para el resto de plataformaspor lo que dificultaban la accesibilidad inmediata para los usuarios.
+Experiencia con **Expo Go (React Native)**: Experimenté con el ecosistema de Expo para el desarrollo de aplicaciones nativas. Sin embargo, identifiqué que la dependencia de una aplicación externa para la ejecución y las limitaciones en la distribución, tiene una gran facilidad para Android pero no para el resto de plataformas por lo que dificultaban la accesibilidad inmediata para los usuarios.
 
 *Desarrollo Web y CI/CD*
 Ecosistema **GitHub & Vercel** Ante los retos de las tiendas de aplicaciones, he optado por Vercel como mi plataforma principal de despliegue para mis últimos proyectos. Esta arquitectura me permite:
