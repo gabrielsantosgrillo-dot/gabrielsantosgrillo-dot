@@ -179,11 +179,9 @@ Aunque la mayoría de mis proyectos actuales se encuentran en **repositorios pri
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
-*Mis aplicaciones son Single Page Applications (SPA) optimizadas para dispositivos móviles, utilizando React Router para la navegación y una arquitectura basada en componentes.*
----
+Mis aplicaciones son Single Page Applications (SPA) optimizadas para dispositivos móviles, utilizando React Router para la navegación y una arquitectura basada en componentes.
 
-
+---
 ## Contacto
 
 Si te interesa colaborar, dar feedback o simplemente charlar sobre desarrollo:
