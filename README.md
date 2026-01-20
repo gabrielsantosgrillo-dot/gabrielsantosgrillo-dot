@@ -135,7 +135,7 @@ Proeycto realizado por mi vinculación con los vecinos de la Calle Campoamor, 10
  
 ---
 ### 🔹 Proyecto 8
-**Creado para expo go 12/2025 migrando a github** 
+**Publicado** https://viajeamalaga.vercel.app/
 
 **Nombre:** **Fray Andrés en Málaga**
 
