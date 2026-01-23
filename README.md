@@ -143,7 +143,11 @@ Proyecto encargado por mi madre. Con motivo de viaje escolar a Málaga
 ---
 ### 🔹 Proyecto 9
 **Publicado** https://concursofotografico.vercel.app/
-Issues: La aplicación es funcional en su núcleo. Actualmente estoy optimizando la integración entre Vercel y MongoDB Atlas para estabilizar la concurrencia de múltiples usuarios.
+La aplicación esta preparada para múltiples usuarios se podrán ver todas las fotos pero no el autor (solo el administrador)
+Logré integrar exitosamente MongoDB Atlas con Vercel tras superar retos de configuración en el entorno de ejecución (Runtime), resolviendo errores críticos de resolución de módulos (ERR_MODULE_NOT_FOUND) y autenticación de red. La clave del éxito fue separar la lógica de servidor del cliente y, fundamentalmente, nunca incluir la cadena de conexión o la contraseña directamente en el código fuente. En su lugar, utilicé Variables de Entorno en el panel de Vercel, lo que garantiza que las credenciales permanezcan cifradas y protegidas, cumpliendo con los estándares de seguridad profesionales para evitar filtraciones de acceso a la base de datos.
+
+Límite máximo: 4.5 MB por imagen( no viene de MongoDB, sino de Vercel)
+Las funciones de servidor (Serverless Functions) de Vercel tienen una restricción estricta de "payload" o cuerpo de la solicitud. Si se intenta subir una imagen que pese más de 4.5 MB, recibirás un error 413: FUNCTION_PAYLOAD_TOO_LARGE y la subida fallará automáticamente.
 
 **Nombre:** **Concurso Fotográfico**
 
