@@ -143,15 +143,16 @@ Proyecto encargado por mi madre. Con motivo de viaje escolar a Málaga
 ---
 ### 🔹 Proyecto 9
 **Publicado** https://concursofotografico.vercel.app/
-La aplicación esta preparada para múltiples usuarios se podrán ver todas las fotos pero no el autor (solo el administrador)
-Logré integrar exitosamente MongoDB Atlas con Vercel tras superar retos de configuración en el entorno de ejecución (Runtime), resolviendo errores críticos de resolución de módulos (ERR_MODULE_NOT_FOUND) y autenticación de red. La clave del éxito fue separar la lógica de servidor del cliente y, fundamentalmente, nunca incluir la cadena de conexión o la contraseña directamente en el código fuente. En su lugar, utilicé Variables de Entorno en el panel de Vercel, lo que garantiza que las credenciales permanezcan cifradas y protegidas, cumpliendo con los estándares de seguridad profesionales para evitar filtraciones de acceso a la base de datos.
+
+ Logré integrar exitosamente MongoDB Atlas con Vercel tras superar retos de configuración en el entorno de ejecución (Runtime), resolviendo errores críticos de resolución de módulos (ERR_MODULE_NOT_FOUND) y autenticación de red. La clave del éxito fue separar la lógica de servidor del cliente y, fundamentalmente, nunca incluir la cadena de conexión o la contraseña directamente en el código fuente. En su lugar, utilicé Variables de Entorno en el panel de Vercel, lo que garantiza que las credenciales permanezcan cifradas y protegidas, cumpliendo con los estándares de seguridad profesionales para evitar filtraciones de acceso a la base de datos.
 
 Límite máximo: 4.5 MB por imagen( no viene de MongoDB, sino de Vercel)
 Las funciones de servidor (Serverless Functions) de Vercel tienen una restricción estricta de "payload" o cuerpo de la solicitud. Si se intenta subir una imagen que pese más de 4.5 MB, recibirás un error 413: FUNCTION_PAYLOAD_TOO_LARGE y la subida fallará automáticamente.
 
 **Nombre:** **Concurso Fotográfico**
 
-Proyecto realizado como complemento al Proyecto 8. Es un concurso fotográfico anónimo, donde solo el administrador puede ver los autores. Lo he mejorado y ahora es multiconcurso, se añade inicialmente un codigo para el concurso solo los usuarios que entre con ese codigo serán los que participaran. Si estas interesado como funciona la aplicacion te puedo enviar la clave de Admnistrador porque es configurable todos los parametros de la aplicacion titulo -subtitulo- nombre de las carpetas. si estan visibles o no.
+Proyecto realizado como complemento al Proyecto 8. Es un concurso fotográfico anónimo,La aplicación esta preparada para múltiples usuarios, donde  el administrador puede configurar ver o no a los autores. so he actualizado incluye multiconcurso, se añade inicialmente un codigo para el concurso solo los usuarios que entre con ese codigo serán los que participaran. Si estas interesado como funciona la aplicacion te puedo enviar la clave de Admnistrador porque es configurable todos los parametros de la aplicacion titulo -subtitulo- nombre de las carpetas. si estan visibles o no.
+En la próxima actualización incluire código de mi proyecto 1 para optimizar el tamaño de las imagenes.
  
 ---
 ##  En qué estoy trabajando
