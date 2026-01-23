@@ -151,7 +151,7 @@ Las funciones de servidor (Serverless Functions) de Vercel tienen una restricci�
 
 **Nombre:** **Concurso Fotográfico**
 
-Proyecto realizado como complemento al Proyecto 8. Es un concurso fotográfico anónimo, donde solo el administrador puede ver los autores.
+Proyecto realizado como complemento al Proyecto 8. Es un concurso fotográfico anónimo, donde solo el administrador puede ver los autores. Lo he mejorado y ahora es multiconcurso, se añade inicialmente un codigo para el concurso solo los usuarios que entre con ese codigo serán los que participaran. Si estas interesado como funciona la aplicacion te puedo enviar la clave de Admnistrador porque es configurable todos los parametros de la aplicacion titulo -subtitulo- nombre de las carpetas. si estan visibles o no.
  
 ---
 ##  En qué estoy trabajando
