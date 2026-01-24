@@ -28,7 +28,7 @@ Documentar y evolucionar mi código de forma abierta, asegurando que el trabajo 
 A continuación iré enlazando mis proyectos más importantes, y cuyo código tengo en **repositorios privados de Github**:
 
 ---
-##  APLICACIONES
+##  APLICACIONES DE GESTIÓN Y HERRAMIENTAS TÉCNICAS
 
 
 ### 🔹 Proyecto 1
