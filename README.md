@@ -55,16 +55,14 @@ Optimización: Utilizo algoritmos de compresión que reducen el tamaño del arch
 [ Leer Manual Técnico del Concurso Fotográfico](https://github.com/gabrielsantosgrillo-dot/JuegosCartas/blob/main/tecnico/concursofotografico.md)
 
 **Nombre:** **Concurso Fotográfico**
+
 Inicialmente el proyecto lo realice como complemento al Proyecto 8, aunque lo he evolucionado a multiconcurso.
 
-Logré integrar exitosamente MongoDB Atlas con Vercel tras superar retos de configuración en el entorno de ejecución (Runtime), resolviendo errores críticos de resolución de módulos (ERR_MODULE_NOT_FOUND) y autenticación de red. La clave del éxito fue separar la lógica de servidor del cliente y, fundamentalmente, nunca incluir la cadena de conexión o la contraseña directamente en el código fuente. En su lugar, utilicé Variables de Entorno en el panel de Vercel, lo que garantiza que las credenciales permanezcan cifradas y protegidas, cumpliendo con los estándares de seguridad profesionales para evitar filtraciones de acceso a la base de datos.
-Límite máximo: 4.5 MB por imagen( no viene de MongoDB, sino de Vercel), e incluido un modulo para optimizar imagenes utilizando mi proyecto 1 y las imagenes se guarda aprox 500 KB  en formato base 64. en proximas versiones tratare de las imagenes guardarlas en Cloudinary y los datos en MONGODB ATLAS, debido a la limitación actual de MONGODB que con la configuración actual y ser una cuenta gratuita me permite unas 770 imagenes.
+Proyecto realizado como complemento al Proyecto 8. Es un concurso fotográfico,La aplicación esta preparada para múltiples usuarios
 
+Observaciones: Logré integrar exitosamente MongoDB Atlas con Vercel tras superar retos de configuración en el entorno de ejecución, resolviendo errores críticos de resolución de módulos  y autenticación de red. La clave del éxito fue separar la lógica de servidor del cliente y, fundamentalmente, nunca incluir la cadena de conexión o la contraseña directamente en el código fuente. En su lugar, utilicé Variables de Entorno en el panel de Vercel, lo que garantiza que las credenciales permanezcan cifradas y protegidas, cumpliendo con los estándares de seguridad  para evitar filtraciones de acceso a la base de datos.
 
-
-
-Proyecto realizado como complemento al Proyecto 8. Es un concurso fotográfico,La aplicación esta preparada para múltiples usuarios, donde  el administrador puede configurar ver o no a los autores. Actualización incluye multiconcurso, se añade inicialmente un codigo para el concurso solo los usuarios que entre con ese codigo serán los que participaran. Si estas interesado como funciona la aplicacion te puedo enviar la clave de Admnistrador porque es configurable todos los parametros de la aplicacion titulo -subtitulo- nombre de las carpetas. si estan visibles o no. Si quieres utilizar el apartado de Administrador y personalizar la aplicacion utiliza la clave "malagon", recuerda que solo personalizas tu codigo, puedes crear otro codigo y personalizarlo son independientes
-
+Límite máximo: 4.5 MB por imagen(no viene de MongoDB, sino de Vercel), e incluido un modulo para optimizar imagenes utilizando mi proyecto 1 y las imagenes se guarda aprox 500 KB  en formato base 64. en proximas versiones tratare de las imagenes guardarlas en Cloudinary y los datos en MONGODB ATLAS, debido a la limitación actual de MONGODB que con la configuración actual y ser una cuenta gratuita me permite unas 770 imagenes.
  
 ---
 
