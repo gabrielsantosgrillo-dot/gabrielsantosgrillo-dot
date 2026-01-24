@@ -30,23 +30,8 @@ A continuación iré enlazando mis proyectos más importantes, y cuyo código te
 ---
 ##  APLICACIONES
 
-### 🔹 Proyecto 1  
-*Publicado*  https://comprimir-imagenes.vercel.app/
 
-**Nombre de la aplicación:** **Ga-Optimo**
-
-Es una herramienta web para la compresión de imágenes desarrollada íntegramente con lógica en el lado del cliente (client-side). En lugar de usar un backend para procesar los archivos, aprovecho la capacidad del navegador para manipular los datos localmente.
-
-Detalles técnicos:
-
-Procesamiento Local: Los archivos no se suben a ningún servidor; la compresión se realiza mediante scripts que corren directamente en el equipo del usuario.
-
-Seguridad de datos: Al no haber transferencia de archivos fuera del equipo, se garantiza que la información nunca sale del entorno local.
-
-Optimización: Utilizo algoritmos de compresión que reducen el tamaño del archivo manteniendo la integridad visual de la imagen original. Busqué en repositorios de npm, estuve comparando varias librerías de compresión en npm hasta que encontré una que funcionaba bien sin necesidad de backend.
-
----
-### 🔹 Proyecto 2
+### 🔹 Proyecto 1
 
 **Publicado** https://concursofotografico.vercel.app/
 
@@ -56,7 +41,7 @@ Optimización: Utilizo algoritmos de compresión que reducen el tamaño del arch
 
 **Nombre:** **Concurso Fotográfico**
 
-Inicialmente el proyecto lo realice como complemento al Proyecto 8, aunque lo he evolucionado a multiconcurso.
+Inicialmente el proyecto lo realice como complemento al Proyecto 4, aunque lo he evolucionado a multiconcurso.
 
 Proyecto realizado como complemento al Proyecto 8. Es un concurso fotográfico,La aplicación esta preparada para múltiples usuarios
 
@@ -66,27 +51,20 @@ Límite máximo: 4.5 MB por imagen(no viene de MongoDB, sino de Vercel), e inclu
  
 ---
 
-### 🔹 Proyecto 2  
-*Publicado* https://juegocartastradicional.vercel.app/
+### 🔹 Proyecto 2 
+*Publicado*  https://comprimir-imagenes.vercel.app/
 
-**Nombre:** **Juegos de Cartas Españolas**
+[ Leer Manual Usuario de Ga-Optimo](https://github.com/gabrielsantosgrillo-dot/JuegosCartas/blob/main/manuales/comprimirimagenes.md)
 
-**Propósito:**  
-Plataforma multijuego diseñada para cualquier tipo de dispositivo que rinde homenaje a los clásicos de la baraja española, especialmente a un juego de mi abuelito (**Giley**) y mi primo(**Culo**)
+[ Leer Manual Técnico del Ga-Optimo](https://github.com/gabrielsantosgrillo-dot/JuegosCartas/blob/main/tecnico/comprimirimagenes.md)
 
-Sin necesidad de registro ni conexión. Juegas contra la máquina.
+**Nombre de la aplicación:** **Ga-Optimo**
 
-**Juegos incluidos:**
-- **Cuatrola:** Juego estratégico 2 vs 2 con baraja de 20 cartas y sistema de retos (Solo, Cuatrola, Sextola).
-- **Tute:** Clásico de 3 jugadores con reglas de arrastre, cánticos y cambios de triunfo.
-- **Giley:** Juego de descarte enfocado en sumar puntos por palos.
-- **Siete y Media:** Clásico de apuesta y riesgo contra la banca.
-- **Culo:** Juego de descarte.
-- 
+Debido a las necesidades de compresión del proyecto 1 se implemento esta herramienta de forma individual. Es una herramienta web para la compresión de imágenes desarrollada íntegramente con lógica en el lado del cliente.Se aprovecha la capacidad del navegador para manipular los datos localmente.
 
 ---
 
-### 🔹 Proyecto 3  
+### 🔹 Proyecto 3
  **Publicado (en fase Test)**  https://correccionexamenes.vercel.app/
 
 **Sistema de corrección de exámenes tipo test y desarrollo**
@@ -114,8 +92,39 @@ Proyecto realizado por encargo de mi padre. La aplicación cubre todas las fases
   Administrador de claves maestras con soporte para preguntas de reserva
 
 ---
+##  APLICACIONES EDUCATIVAS / GUÍAS DIGITALES
 
-### 🔹 Proyecto 4  
+### 🔹 Proyecto 4
+**Publicado** https://viajeamalaga.vercel.app/
+
+**Nombre:** **Fray Andrés en Málaga**
+
+Proyecto encargado por mi madre. Con motivo de viaje escolar a Málaga
+ 
+---
+##  APLICACIONES DE ENTRETENIENTO
+
+### 🔹 Proyecto 5  
+*Publicado* https://juegocartastradicional.vercel.app/
+
+**Nombre:** **Juegos de Cartas Españolas**
+
+**Propósito:**  
+Plataforma multijuego diseñada para cualquier tipo de dispositivo que rinde homenaje a los clásicos de la baraja española, especialmente a un juego de mi abuelito (**Giley**) y mi primo(**Culo**)
+
+Sin necesidad de registro ni conexión. Juegas contra la máquina.
+
+**Juegos incluidos:**
+- **Cuatrola:** Juego estratégico 2 vs 2 con baraja de 20 cartas y sistema de retos (Solo, Cuatrola, Sextola).
+- **Tute:** Clásico de 3 jugadores con reglas de arrastre, cánticos y cambios de triunfo.
+- **Giley:** Juego de descarte enfocado en sumar puntos por palos.
+- **Siete y Media:** Clásico de apuesta y riesgo contra la banca.
+- **Culo:** Juego de descarte.
+- 
+
+---
+
+### 🔹 Proyecto 6  
 **Publicado** https://nomedeslalata.vercel.app/
 
 **Nombre:** **¡No me des la lata!**
@@ -129,7 +138,7 @@ Homenaje a mi hermano. Es un juego de lógica y memoria visual con una estética
 
 ---
 
-### 🔹 Proyecto 5  
+### 🔹 Proyecto 7  
  **Publicado**  https://juego-barcos.vercel.app/
 
 **Juego de los Barcos**
@@ -137,7 +146,7 @@ Homenaje a mi hermano. Es un juego de lógica y memoria visual con una estética
 El juego está desarrollado, como ampliación de un trabajo en la Universidad,  es un juego de barcos clásico donde he trabajado mucho en la interfaz y en crear una lógica de juego que sea difícil para el usuario
 
 ---
-### 🔹 Proyecto 6  
+### 🔹 Proyecto 8  
 **Publicado** https://ahorcado-personalizado.vercel.app/
 
 **Nombre:** **Ahorcado Personalizado**
@@ -145,7 +154,7 @@ El juego está desarrollado, como ampliación de un trabajo en la Universidad,  
 Ahorcado Personalizado lo he diseñado para que de forma interactiva se adivina palabras ofrece retos infinitos a través de tres modalidades:  Aleatoria, Temática (basada en cualquier concepto que imagines) y Modo Manual para listas personalizadas. Con un límite de 6 fallos, el juego integra un sistema de pistas inteligentes y definiciones educativas al finalizar cada partida, logrando un equilibrio perfecto entre entretenimiento clásico y aprendizaje moderno en una interfaz optimizada .
 
 ---
-### 🔹 Proyecto 7  
+### 🔹 Proyecto 9  
 **Publicado** https://campoamor10.vercel.app/
 
 **Nombre:** **Edificio Navideño**
@@ -153,15 +162,7 @@ Ahorcado Personalizado lo he diseñado para que de forma interactiva se adivina 
 Proeycto realizado por mi vinculación con los vecinos de la Calle Campoamor, 10 de Puertollano. Edificio Navideño es una experiencia interactiva diseñada para celebrar la Navidad en la comunidad de Campoamor 10 en Puertollano, que combina la narrativa tradicional con divertidos desafíos digitales. A través de una interfaz optimizada para cualquier dispositivo, los usuarios pueden explorar las plantas de un edificio para descubrir cinco mini-juegos temáticos que restauran la "magia" de cada planta y enfrentarse en una batalla final contra un muñeco de nieve travieso, todo funcionando de manera 100% local y privada para garantizar una experiencia segura, fluida y llena de espíritu navideño.
  
 ---
-### 🔹 Proyecto 8
-**Publicado** https://viajeamalaga.vercel.app/
 
-**Nombre:** **Fray Andrés en Málaga**
-
-Proyecto encargado por mi madre. Con motivo de viaje escolar a Málaga
- 
-
----
 ##  En qué estoy trabajando
 
 Mis proyectos están enfocados en:
