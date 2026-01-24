@@ -151,7 +151,7 @@ Límite máximo: 4.5 MB por imagen( no viene de MongoDB, sino de Vercel), e incl
 
 **Nombre:** **Concurso Fotográfico**
 
-Proyecto realizado como complemento al Proyecto 8. Es un concurso fotográfico,La aplicación esta preparada para múltiples usuarios, donde  el administrador puede configurar ver o no a los autores. Actualización incluye multiconcurso, se añade inicialmente un codigo para el concurso solo los usuarios que entre con ese codigo serán los que participaran. Si estas interesado como funciona la aplicacion te puedo enviar la clave de Admnistrador porque es configurable todos los parametros de la aplicacion titulo -subtitulo- nombre de las carpetas. si estan visibles o no. Si quieres utilizar el apartado de Administrador y personalizar la aplicacion utiliza la clave "malagon".
+Proyecto realizado como complemento al Proyecto 8. Es un concurso fotográfico,La aplicación esta preparada para múltiples usuarios, donde  el administrador puede configurar ver o no a los autores. Actualización incluye multiconcurso, se añade inicialmente un codigo para el concurso solo los usuarios que entre con ese codigo serán los que participaran. Si estas interesado como funciona la aplicacion te puedo enviar la clave de Admnistrador porque es configurable todos los parametros de la aplicacion titulo -subtitulo- nombre de las carpetas. si estan visibles o no. Si quieres utilizar el apartado de Administrador y personalizar la aplicacion utiliza la clave "malagon", recuerda que solo personalizas tu codigo, puedes crear otro codigo y personalizarlo son independientes
 
  
 ---
