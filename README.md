@@ -52,7 +52,7 @@ Optimización: Utilizo algoritmos de compresión que reducen el tamaño del arch
 
 [ Leer Manual Usuario del Concurso Fotográfico](https://github.com/gabrielsantosgrillo-dot/JuegosCartas/blob/main/manuales/concursofotografico.md)
 
-[📖 Leer Manual Técnico del Concurso Fotográfico](https://github.com/gabrielsantosgrillo-dot/JuegosCartas/blob/main/tecnico/concursofotografico.md)
+[ Leer Manual Técnico del Concurso Fotográfico](https://github.com/gabrielsantosgrillo-dot/JuegosCartas/blob/main/tecnico/concursofotografico.md)
 
 **Nombre:** **Concurso Fotográfico**
 Inicialmente el proyecto lo realice como complemento al Proyecto 8, aunque lo he evolucionado a multiconcurso.
