@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gabrielsantosgrillo-dot/JuegosCartas/main/BINARIO/BINARIO.gif" width="100%" alt="Gabriel Santos Grillo"/>
+</p>
 ##  ¡Bienvenido a mi perfil!
 
 Soy estudiante de **1º curso de Ingeniería Informática** en la **Universidad de Castilla-La Mancha**,
