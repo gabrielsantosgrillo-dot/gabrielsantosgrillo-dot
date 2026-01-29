@@ -49,8 +49,6 @@ Inicialmente el proyecto lo realice como complemento al Proyecto 4, aunque lo he
 
 Observaciones: Logré integrar exitosamente MongoDB Atlas con Vercel tras superar retos de configuración en el entorno de ejecución, resolviendo errores críticos de resolución de módulos  y autenticación de red. La clave del éxito fue separar la lógica de servidor del cliente y, fundamentalmente, nunca incluir la cadena de conexión o la contraseña directamente en el código fuente. En su lugar, utilicé Variables de Entorno en el panel de Vercel, lo que garantiza que las credenciales permanezcan cifradas y protegidas, cumpliendo con los estándares de seguridad  para evitar filtraciones de acceso a la base de datos.
 
-Límite máximo: 4.5 MB por imagen(no viene de MongoDB, sino de Vercel), e incluido un modulo para optimizar imagenes utilizando mi proyecto 1 y las imagenes se guarda aprox 500 KB  en formato base 64. en proximas versiones tratare de las imagenes guardarlas en Cloudinary y los datos en MONGODB ATLAS, debido a la limitación actual de MONGODB que con la configuración actual y ser una cuenta gratuita me permite unas 770 imagenes.
- 
 ---
 
 ### 🔹 Proyecto 2 
