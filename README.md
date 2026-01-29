@@ -160,6 +160,14 @@ Ahorcado Personalizado lo he diseñado para que de forma interactiva se adivina 
 **Nombre:** **Edificio Navideño**
 
 Proeycto realizado por mi vinculación con los vecinos de la Calle Campoamor, 10 de Puertollano. Edificio Navideño es una experiencia interactiva diseñada para celebrar la Navidad en la comunidad de Campoamor 10 en Puertollano, que combina la narrativa tradicional con divertidos desafíos digitales. A través de una interfaz optimizada para cualquier dispositivo, los usuarios pueden explorar las plantas de un edificio para descubrir cinco mini-juegos temáticos que restauran la "magia" de cada planta y enfrentarse en una batalla final contra un muñeco de nieve travieso, todo funcionando de manera 100% local y privada para garantizar una experiencia segura, fluida y llena de espíritu navideño.
+
+ ---
+### 🔹 Proyecto 10  
+**Publicado** https://residenciamaestro.vercel.app/
+
+**Nombre:** **Residencia Maestro**
+
+Proyecto desarrollado inspirado a partir del entorno de la Residencia Universitaria donde resido. Residencia Maestro es una experiencia inmersiva de misterio y deducción  en la que asumes el rol de un detective atrapado en la Residencia tras un crimen atroz. El juego combina la exploración estratégica de estancias con un sistema de interrogatorio dinámico, donde debes interactuar con diversos personajes controlados por lógica de bots para obtener testimonios, descubrir armas ocultas y registrar evidencias en un cuaderno personal interactivo. La atmósfera de tensión se intensifica mediante eventos de "apagón" donde el asesino se desplaza libremente, obligándote a utilizar tu razonamiento deductivo para identificar al culpable, el arma homicida y la escena original del crimen antes de que la oscuridad te alcance a ti también
  
 ---
 
