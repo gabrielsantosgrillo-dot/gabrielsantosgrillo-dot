@@ -10,12 +10,9 @@
 </p>
 
 <p align="center">
-  <iframe src="https://gabrielsantosgrillo-dot.github.io/JuegosCartas/BINARIO/BINARIO.HTML" 
-          width="100%" 
-          height="300" 
-          frameborder="0" 
-          style="border:0;">
-  </iframe>
+  <a href="https://gabrielsantosgrillo-dot.github.io/JuegosCartas/BINARIO/BINARIO.HTML">
+    <img src="URL_DE_LA_IMAGEN_GENERADA" width="800" alt="Matrix Terminal View">
+  </a>
 </p>
 
 ##  ¡Bienvenido a mi perfil!
