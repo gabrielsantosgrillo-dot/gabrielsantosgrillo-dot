@@ -1,5 +1,5 @@
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/79a8360d-66e3-4610-859a-1c009d13735e" 
+  <video src="https://github.com/user-attachments/assets/8c6f2329-707e-454b-9a79-8fcc6518e4d9" 
          autoplay 
          loop 
          muted 
@@ -9,6 +9,8 @@
   </video>
 </div>
 
+<video src="https://github.com/user-attachments/assets/8c6f2329-707e-454b-9a79-8fcc6518e4d9" autoplay loop muted playsinline controls="false" style="width: 100%; pointer-events: none;">
+</video>
 ##  ¡Bienvenido a mi perfil!
 
 Soy estudiante de **1º curso de Ingeniería Informática** en la **Universidad de Castilla-La Mancha**,
