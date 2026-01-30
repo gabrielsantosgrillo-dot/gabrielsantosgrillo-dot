@@ -9,12 +9,6 @@
   </video>
 </p>
 
-<p align="center">
-  <a href="https://gabrielsantosgrillo-dot.github.io/JuegosCartas/BINARIO/BINARIO.HTML">
-    <img src="URL_DE_LA_IMAGEN_GENERADA" width="800" alt="Matrix Terminal View">
-  </a>
-</p>
-
 ##  ¡Bienvenido a mi perfil!
 
 Soy estudiante de **1º curso de Ingeniería Informática** en la **Universidad de Castilla-La Mancha**,
