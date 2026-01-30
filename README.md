@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gabrielsantosgrillo-dot/JuegosCartas/main/BINARIO/BINARIO.gif" width="100%" alt="Gabriel Santos Grillo"/>
-</p>
+<video src="https://github.com/user-attachments/assets/8c6f2329-707e-454b-9a79-8fcc6518e4d9" autoplay loop muted playsinline style="width: 100%;"></video>
 
 
 https://github.com/user-attachments/assets/8c6f2329-707e-454b-9a79-8fcc6518e4d9
