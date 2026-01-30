@@ -1,13 +1,13 @@
-<div align="center">
+<p align="center">
   <video src="https://github.com/user-attachments/assets/8c6f2329-707e-454b-9a79-8fcc6518e4d9" 
-         autoplay 
-         loop 
-         muted 
-         playsinline 
+         autoplay="true" 
+         loop="true" 
+         muted="true" 
+         playsinline="true" 
          width="100%" 
-         style="pointer-events: none;">
+         style="display: block; margin: 0 auto; pointer-events: none;">
   </video>
-</div>
+</p>
 
 <video src="https://github.com/user-attachments/assets/8c6f2329-707e-454b-9a79-8fcc6518e4d9" autoplay loop muted playsinline controls="false" style="width: 100%; pointer-events: none;">
 </video>
