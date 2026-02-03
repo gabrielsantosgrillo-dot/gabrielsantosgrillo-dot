@@ -154,7 +154,7 @@ El juego está desarrollado, como ampliación de un trabajo en la Universidad,  
 
 ---
 ### 🔹 Proyecto 8  
-**Publicado** https://ahorcado-personalizado.vercel.app/
+**Publicado** https://ahorcado-personalizable.vercel.app/
 
 **Nombre:** **Ahorcado Personalizado**
 
