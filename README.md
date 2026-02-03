@@ -2,16 +2,16 @@
   <img src="https://raw.githubusercontent.com/gabrielsantosgrillo-dot/JuegosCartas/main/BINARIO/binario.gif" width="100%" />
 </p>
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/8c6f2329-707e-454b-9a79-8fcc6518e4d9" 
-         autoplay="true" 
-         loop="true" 
-         muted="true" 
-         playsinline="true" 
-         width="100%" 
-         style="display: block; margin: 0 auto; pointer-events: none;">
-  </video>
-</p>
+<!--<p align="center">    -->
+<!--  <video src="https://github.com/user-attachments/assets/8c6f2329-707e-454b-9a79-8fcc6518e4d9"       -->
+<!--         autoplay="true"        -->
+<!--         loop="true"            -->
+<!--         muted="true"           -->
+<!--         playsinline="true"     -->
+<!--         width="100%"           -->
+<!--         style="display: block; margin: 0 auto; pointer-events: none;">                       -->
+<!--  </video>                      -->
+<!--</p>                            -->
 
 ##  ¡Bienvenido a mi perfil!
 
