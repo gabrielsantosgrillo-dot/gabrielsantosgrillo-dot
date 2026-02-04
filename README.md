@@ -114,16 +114,24 @@ Proyecto encargado por mi madre. Con motivo de viaje escolar a Málaga
  
 ---
 ### 🔹 Proyecto 5
-**Publicado** https://exploramapa.vercel.app/
+**Publicado** https://exploramapa.vercel.app/ 
 
-**Nombre:** **Explora España**
+**Nombre:** **Ga-Explora España**
 
-Proyecto de ayuda al estudio para mi hermano de Geografía de España. 
+Proyecto de ayuda al estudio para mi hermano de Geografía de España. (1º ESO)
+
+ ---
+### 🔹 Proyecto 6
+**Publicado**  https://gaexploraeuropa.vercel.app/
+
+**Nombre:** **Ga-Explora España**
+
+Proyecto de ayuda al estudio para mi hermano de Geografía de Europa. (1ºESO)
  
 ---
 ##  APLICACIONES DE ENTRETENIENTO
 
-### 🔹 Proyecto 6  
+### 🔹 Proyecto 7  
 *Publicado* https://juegocartastradicional.vercel.app/
 
 **Nombre:** **Juegos de Cartas Españolas**
@@ -143,7 +151,7 @@ Sin necesidad de registro ni conexión. Juegas contra la máquina.
 
 ---
 
-### 🔹 Proyecto 7  
+### 🔹 Proyecto 8  
 **Publicado** https://nomedeslalata.vercel.app/
 
 **Nombre:** **¡No me des la lata!**
@@ -157,7 +165,7 @@ Homenaje a mi hermano. Es un juego de lógica y memoria visual con una estética
 
 ---
 
-### 🔹 Proyecto 8  
+### 🔹 Proyecto 9  
  **Publicado**  https://juego-barcos.vercel.app/
 
 **Juego de los Barcos**
@@ -165,7 +173,7 @@ Homenaje a mi hermano. Es un juego de lógica y memoria visual con una estética
 El juego está desarrollado, como ampliación de un trabajo en la Universidad,  es un juego de barcos clásico donde he trabajado mucho en la interfaz y en crear una lógica de juego que sea difícil para el usuario
 
 ---
-### 🔹 Proyecto 9  
+### 🔹 Proyecto 10  
 **Publicado** https://ahorcado-personalizable.vercel.app/
 
 **Nombre:** **Ahorcado Personalizado**
@@ -173,7 +181,7 @@ El juego está desarrollado, como ampliación de un trabajo en la Universidad,  
 Ahorcado Personalizado lo he diseñado para que de forma interactiva se adivina palabras ofrece retos infinitos a través de tres modalidades:  Aleatoria, Temática (basada en cualquier concepto que imagines) y Modo Manual para listas personalizadas. Con un límite de 6 fallos, el juego integra un sistema de pistas inteligentes y definiciones educativas al finalizar cada partida, logrando un equilibrio perfecto entre entretenimiento clásico y aprendizaje moderno en una interfaz optimizada .
 
 ---
-### 🔹 Proyecto 10  
+### 🔹 Proyecto 11  
 **Publicado** https://campoamor10.vercel.app/
 
 **Nombre:** **Edificio Navideño**
@@ -181,7 +189,7 @@ Ahorcado Personalizado lo he diseñado para que de forma interactiva se adivina 
 Proeycto realizado por mi vinculación con los vecinos de la Calle Campoamor, 10 de Puertollano. Edificio Navideño es una experiencia interactiva diseñada para celebrar la Navidad en la comunidad de Campoamor 10 en Puertollano, que combina la narrativa tradicional con divertidos desafíos digitales. A través de una interfaz optimizada para cualquier dispositivo, los usuarios pueden explorar las plantas de un edificio para descubrir cinco mini-juegos temáticos que restauran la "magia" de cada planta y enfrentarse en una batalla final contra un muñeco de nieve travieso, todo funcionando de manera 100% local y privada para garantizar una experiencia segura, fluida y llena de espíritu navideño.
 
  ---
-### 🔹 Proyecto 11  
+### 🔹 Proyecto 12  
 **Publicado** https://residenciamaestro.vercel.app/
 
 **Nombre:** **Residencia Maestro**
