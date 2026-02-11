@@ -75,6 +75,21 @@ Debido a las necesidades de compresión del proyecto 1 se implemento esta herram
 
 ---
 
+### 🔹 Proyecto 3 
+*Publicado*  https://controlarcihvos.vercel.app/
+
+[ Leer Manual Usuario de Ga-Optimo](https://github.com/gabrielsantosgrillo-dot/JuegosCartas/blob/main/manuales/comprimirimagenes.md)
+
+[ Leer Manual Técnico del Ga-Optimo](https://github.com/gabrielsantosgrillo-dot/JuegosCartas/blob/main/tecnico/comprimirimagenes.md)
+
+**Nombre de la aplicación:** **Ga-Archivos**
+
+GA-Archivos es una aplicación web para la gestión y renombrado masivo de archivos.
+Está pensada para facilitar tareas repetitivas como cambiar nombres después de escanear documentos o trabajar con grandes volúmenes de archivos.
+La herramienta funciona completamente en local (en el navegador), garantizando privacidad total. Permite filtrar por nombre, fecha o tamaño, ordenar con precisión y aplicar cambios masivos como prefijos, sufijos o listas de nombres personalizadas.
+
+---
+
 ### 🔹 Proyecto 3
  **Publicado (en fase Test)**  https://correccionexamenes.vercel.app/
 
