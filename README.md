@@ -213,6 +213,15 @@ Proyecto desarrollado inspirado a partir del entorno de la Residencia Universita
  
 ---
 
+### 🔹 Proyecto 7  
+**Publicado** https://inazumabreak.vercel.app/
+
+**Nombre:** **Inazuma Break: El Código Prohibido**
+
+Para los Fans de Inazuma, he reutilizado código del proyecto 4 de utilidades. Es una experiencia inmersiva de "hacking" ciber-deportivo donde asumes el rol de un miembro de la Resistencia encargado de detener el avance del Dark Vector, un virus digital creado por Ray Dark que ha comprimido a las leyendas del fútbol dentro de los códigos de barras de objetos cotidianos. Mediante un avanzado escáner local de algoritmos EAN-13, deberás localizar estas firmas de energía en productos reales de tu entorno, identificar el aura atrapada y superar un desafío de sincronización mental para restaurar la forma física de los jugadores y reconstruir el equipo definitivo que salvará el fútbol.
+
+---
+
 ##  En qué estoy trabajando
 
 Mis proyectos están enfocados en:
