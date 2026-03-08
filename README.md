@@ -137,11 +137,11 @@ Proyecto de ayuda al estudio para mi hermano de Geografía de España. (1º ESO)
 
  ---
 ### 🔹 Proyecto 3
-**Publicado**  https://gaexploraeuropa.vercel.app/
+**Publicado**  https://exploramundo.vercel.app/
 
-**Nombre:** **Ga-Explora España**
+**Nombre:** **Ga-ExploraMundo**
 
-Proyecto de ayuda al estudio para mi hermano de Geografía de Europa. (1ºESO)
+Proyecto de ayuda al estudio para mi hermano de Geografía del Mundo. (1ºESO)
  
 ---
 ##  APLICACIONES DE ENTRETENIENTO
