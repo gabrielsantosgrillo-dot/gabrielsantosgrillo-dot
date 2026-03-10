@@ -162,7 +162,7 @@ Sin necesidad de registro ni conexión. Juegas contra la máquina.
 - **Giley:** Juego de descarte enfocado en sumar puntos por palos.
 - **Siete y Media:** Clásico de apuesta y riesgo contra la banca.
 - **Culo:** Juego de descarte.
-- 
+- **Burro:** Juego de parejas.
 
 ---
 
@@ -214,6 +214,28 @@ Proyecto desarrollado inspirado a partir del entorno de la Residencia Universita
 ---
 
 ### 🔹 Proyecto 7  
+**Publicado** https://cantarbingo.vercel.app/
+
+**Nombre:** **Bingo**
+
+Este proyecto fue diseñado específicamente para profundizar en la integración de arquitecturas Backend-as-a-Service utilizando Firebase. Es una reimplementación del clásico juego de Bingo que ofrece dos modalidades distintas: una experiencia individual y un modo multijugador interactivo.
+
+En la versión multijugador, Firebase actúa como el motor central de sincronización. Gracias a sus capacidades de base de datos en tiempo real, el sistema permite que múltiples participantes compartan el estado de la partida de forma instantánea. Esto garantiza que todos los jugadores vean los mismos números extraídos y el progreso de sus cartones al mismo tiempo, logrando una experiencia de usuario fluida y coherente sin necesidad de recargar la página. 
+ 
+---
+
+### 🔹 Proyecto 8  
+**Publicado** https://tvmundo.vercel.app/
+
+**Nombre:** **Retro TV**
+
+Esta aplicación es un reproductor de televisión con una interfaz retro que simula un televisor de tubo. Está diseñada para ofrecer una experiencia nostálgica mientras se visualiza contenido de televisión moderno a través de internet.
+TECNOLOGÍA DE VISUALIZACIÓN DE VÍDEO
+HLS.js: El núcleo de la reproducción de vídeo utiliza la librería hls.js. Esta tecnología permite reproducir transmisiones en vivo (Live Streams) con el protocolo HTTP Live Streaming (HLS) directamente en el navegador, sin necesidad de plugins adicionales.
+HTML5 Video: Se apoya en el elemento nativo <video> de HTML5, asegurando compatibilidad multiplataforma y aceleración por hardware cuando está disponible.programa.
+
+---
+### 🔹 Proyecto 9  
 **Publicado** https://inazumabreak.vercel.app/
 
 **Nombre:** **Inazuma Break: El Código Prohibido**
