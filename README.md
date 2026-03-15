@@ -181,6 +181,15 @@ Homenaje a mi hermano. Es un juego de lógica y memoria visual con una estética
 ---
 
 ### 🔹 Proyecto 3  
+ **Publicado**  https://retomillon.vercel.app/
+
+**Reto Millón**
+
+Esta aplicación es un juego de preguntas interactivo y multijugador desarrollado con React y Firebase, que permite a los usuarios competir en salas personalizadas o jugar en solitario a través de ocho rondas de dificultad progresiva. El sistema integra una base de datos de más de 4,400 preguntas categorizadas en diversos temas,  una mecánica de apuestas dinámica donde los jugadores gestionan sus puntos en tiempo real. Con una interfaz optimizada para dispositivos móviles, el juego incluye selección de temas, revelación estratégica de respuestas incorrectas y un ranking final para determinar al ganador.
+
+---
+
+### 🔹 Proyecto 4  
  **Publicado**  https://juego-barcos.vercel.app/
 
 **Juego de los Barcos**
@@ -188,7 +197,7 @@ Homenaje a mi hermano. Es un juego de lógica y memoria visual con una estética
 El juego está desarrollado, como ampliación de un trabajo en la Universidad,  es un juego de barcos clásico donde he trabajado mucho en la interfaz y en crear una lógica de juego que sea difícil para el usuario
 
 ---
-### 🔹 Proyecto 4  
+### 🔹 Proyecto 5  
 **Publicado** https://ahorcado-personalizable.vercel.app/
 
 **Nombre:** **Ahorcado Personalizado**
@@ -196,7 +205,7 @@ El juego está desarrollado, como ampliación de un trabajo en la Universidad,  
 Ahorcado Personalizado lo he diseñado para que de forma interactiva se adivina palabras ofrece retos infinitos a través de tres modalidades:  Aleatoria, Temática (basada en cualquier concepto que imagines) y Modo Manual para listas personalizadas. Con un límite de 6 fallos, el juego integra un sistema de pistas inteligentes y definiciones educativas al finalizar cada partida, logrando un equilibrio perfecto entre entretenimiento clásico y aprendizaje moderno en una interfaz optimizada .
 
 ---
-### 🔹 Proyecto 5  
+### 🔹 Proyecto 6  
 **Publicado** https://campoamor10.vercel.app/
 
 **Nombre:** **Edificio Navideño**
@@ -204,7 +213,7 @@ Ahorcado Personalizado lo he diseñado para que de forma interactiva se adivina 
 Proeycto realizado por mi vinculación con los vecinos de la Calle Campoamor, 10 de Puertollano. Edificio Navideño es una experiencia interactiva diseñada para celebrar la Navidad en la comunidad de Campoamor 10 en Puertollano, que combina la narrativa tradicional con divertidos desafíos digitales. A través de una interfaz optimizada para cualquier dispositivo, los usuarios pueden explorar las plantas de un edificio para descubrir cinco mini-juegos temáticos que restauran la "magia" de cada planta y enfrentarse en una batalla final contra un muñeco de nieve travieso, todo funcionando de manera 100% local y privada para garantizar una experiencia segura, fluida y llena de espíritu navideño.
 
  ---
-### 🔹 Proyecto 6  
+### 🔹 Proyecto 7  
 **Publicado** https://residenciamaestro.vercel.app/
 
 **Nombre:** **Residencia Maestro**
@@ -213,7 +222,7 @@ Proyecto desarrollado inspirado a partir del entorno de la Residencia Universita
  
 ---
 
-### 🔹 Proyecto 7  
+### 🔹 Proyecto 8  
 **Publicado** https://cantarbingo.vercel.app/
 
 **Nombre:** **Bingo**
@@ -224,7 +233,7 @@ En la versión multijugador, Firebase actúa como el motor central de sincroniza
  
 ---
 
-### 🔹 Proyecto 8  
+### 🔹 Proyecto 9  
 **Publicado** https://tvmundo.vercel.app/
 
 **Nombre:** **Retro TV**
@@ -235,7 +244,7 @@ HLS.js: El núcleo de la reproducción de vídeo utiliza la librería hls.js. Es
 HTML5 Video: Se apoya en el elemento nativo <video> de HTML5, asegurando compatibilidad multiplataforma y aceleración por hardware cuando está disponible.programa.
 
 ---
-### 🔹 Proyecto 9  
+### 🔹 Proyecto 10  
 **Publicado** https://inazumabreak.vercel.app/
 
 **Nombre:** **Inazuma Break: El Código Prohibido**
