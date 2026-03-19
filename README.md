@@ -90,7 +90,16 @@ La herramienta funciona completamente en local (en el navegador), garantizando p
 
 ---
 
-### 🔹 Proyecto 4
+### 🔹 Proyecto 4 
+*Publicado*  https://generadorkey.vercel.app/
+
+**Nombre de la aplicación:** **GA-Gen Key**
+
+GA-Gen Key es una herramienta web que permite generar claves secretas JWT (HS256, HS384, HS512) de forma 100% local y privada mediante el uso de la herramienta criptográfica nativa del navegador (window.crypto), garantizando que los secretos nunca se transmitan ni almacenen fuera del dispositivo del usuario. La aplicación destaca por su enfoque en la "Privacidad por Diseño", facilita la personalización de la longitud de las claves y su copia segura.
+
+---
+
+### 🔹 Proyecto 5
  **Publicado (en fase Test)**  https://correccionexamenes.vercel.app/
 
 **Sistema de corrección de exámenes tipo test y desarrollo**
