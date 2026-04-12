@@ -91,6 +91,14 @@ La herramienta funciona completamente en local (en el navegador), garantizando p
 ---
 
 ### 🔹 Proyecto 4 
+*Publicado*  https://crearqr.vercel.app/
+
+**Nombre de la aplicación:** **GA-QR**
+
+La aplicación es un generador avanzado de códigos QR desarrollado, que permite a los usuarios crear códigos dinámicos (texto, URL, Wi-Fi, vCard) con opciones de personalización profunda como colores, formas, marcos y logos. A nivel técnico, la herramienta hace un uso intensivo de la API Canvas de HTML5 para renderizar tanto los códigos QR como las tarjetas de presentación visuales, integra la librería docx para la generación y exportación masiva de tablas con múltiples códigos a documentos Word, y aprovecha la API nativa navigator.share del navegador para compartir directamente archivos de contacto (.vcf) e imágenes generadas.
+
+---
+### 🔹 Proyecto 5 
 *Publicado*  https://generadorkey.vercel.app/
 
 **Nombre de la aplicación:** **GA-Gen Key**
@@ -99,7 +107,7 @@ GA-Gen Key es una herramienta web que permite generar claves secretas JWT (HS256
 
 ---
 
-### 🔹 Proyecto 5
+### 🔹 Proyecto 6
  **Publicado (en fase Test)**  https://correccionexamenes.vercel.app/
 
 **Sistema de corrección de exámenes tipo test y desarrollo**
