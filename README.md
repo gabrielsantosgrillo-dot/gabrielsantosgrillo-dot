@@ -99,6 +99,15 @@ La aplicación es un generador avanzado de códigos QR desarrollado, que permite
 
 ---
 ### 🔹 Proyecto 5 
+*Publicado*  https://exploraciudad.vercel.app/
+
+**Nombre de la aplicación:** **GA-Exploraciudad**
+
+GA-ExploraCiudad se ejecuta íntegramente en el navegador, garantizando la privacidad al persistir los datos y configuraciones únicamente en el localStorage del usuario. Su núcleo interactivo se basa en la librería Leaflet, ofreciendo múltiples capas cartográficas (OpenStreetMap, Esri, Catastro y PNOA Histórico del IGN) sobre las cuales se visualizan Puntos de Interés (POIs) que pueden ser creados manualmente o importados/exportados dinámicamente vía CSV. A nivel funcional, la aplicación integra geolocalización avanzada con modo manual para dispositivos sin GPS, cálculo de rutas peatonales y vehiculares conectándose a servidores OSRM (leaflet-routing-machine)  y enlaces dinámicos a Google Street View, logrando una herramienta turística completa y rápida sin necesidad de una base de datos backend propia. 
+
+---
+    
+### 🔹 Proyecto 6 
 *Publicado*  https://generadorkey.vercel.app/
 
 **Nombre de la aplicación:** **GA-Gen Key**
@@ -107,7 +116,7 @@ GA-Gen Key es una herramienta web que permite generar claves secretas JWT (HS256
 
 ---
 
-### 🔹 Proyecto 6
+### 🔹 Proyecto 7
  **Publicado (en fase Test)**  https://correccionexamenes.vercel.app/
 
 **Sistema de corrección de exámenes tipo test y desarrollo**
@@ -159,7 +168,15 @@ Proyecto de ayuda al estudio para mi hermano de Geografía de España. (1º ESO)
 **Nombre:** **Ga-ExploraMundo**
 
 Proyecto de ayuda al estudio para mi hermano de Geografía del Mundo. (1ºESO)
- 
+
+  ---
+### 🔹 Proyecto 4
+**Publicado**  https://turismoalmodovar.vercel.app/
+
+**Nombre:** **Guia Turismo de Almodóvar del Campo**
+
+Esta aplicación es una guía turística interactiva (para la gestión avanzada de mapas y capas espaciales), diseñada bajo una arquitectura de datos dinámicos cuyo motor principal es un único archivo CSV externo. A nivel técnico, el sistema lee y procesa este documento en tiempo real para generar automáticamente toda la interfaz y sus funcionalidades: desde la ubicación de los marcadores y el trazado de rutas GPS, hasta la creación de categorías, textos descriptivos, carruseles de imágenes y enlaces. Esta estructura centralizada funciona como un gestor de contenidos (CMS) no-code, permitiendo que cualquier persona pueda administrar, actualizar y escalar el 100% del contenido de la plataforma de forma remota simplemente editando una hoja de cálculo, reflejándose los cambios al instante en la aplicación sin necesidad de tocar el código fuente ni realizar nuevos despliegues técnicos.",
+    
 ---
 ##  APLICACIONES DE ENTRETENIENTO
 
